@@ -26,7 +26,7 @@ Ensure that the following software is installed on your system:
 - **Clone the Project**
 
 ```bash
-git clone https://github.com/imnabid/FaceTrace.git
+git clone https://github.com/Nischal-Karki-1/FaceTrace.git
 ```
 - **Install Backend Dependencies**
 Navigate to the ```backend``` folder and install the required dependencies using:
