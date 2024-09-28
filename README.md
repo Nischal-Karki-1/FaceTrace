@@ -119,48 +119,51 @@ The images stored in the MongoDB database are compared with real-time images cap
     - Officers use the displayed cards on the frontend to verify the information and take appropriate action based on the confirmed match.
       
 ## Screenshots
-
+- #### Login Page 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/354b2917-394e-47bb-8b9d-43b7e5fce12b" width="600px"/>
 </div> <br>
 
+- #### Add details of Missing Person and Informer
+ - ##### Missing Person 1
 <div align="center">
 <img src="https://github.com/user-attachments/assets/329451e0-6aa2-42ec-90ed-a70c0cf68f85" width="600px"/>
 </div> <br>
 
 
-
+ - ##### Missing Person 2
 <div align="center">
 <img src="https://github.com/user-attachments/assets/598da8af-0c3a-46c0-a791-178ceb54f75a" width="600px"/>
 </div> <br>
 
-
+- #### Missing People Notification to be Confirmed by the Police Officials
 <div align="center">
 <img src="https://github.com/user-attachments/assets/42dc5c86-ac0f-4e1e-800a-2348891c51d5" width="600px"/>
 </div> <br>
 
+- #### Missing Person Notifications Confirmed and Added to the Missing Person Wall
 <div align="center">
 <img src="https://github.com/user-attachments/assets/17a40e02-957b-46d3-9c7c-b6cd35a15da7" width="600px"/>
 </div> <br>
 
+- #### Identification Process of Missing Person 1
 <div align="center">
 <img src="https://github.com/user-attachments/assets/11eff190-deae-4cdf-8146-2860f878de4e" width="600px"/>
 </div> <br>
 
 
 
-
+- #### Identification Process of Missing Person 2
 <div align="center">
 <img src="https://github.com/user-attachments/assets/51aa70dd-4c8e-498f-8d31-2c08f50c9dd8" width="600px"/>
 </div> <br> 
 
+- #### Notification of People Found added to the Wall
 <div align="center">
 <img src="https://github.com/user-attachments/assets/523fa33a-a5f5-4f31-9791-4c5f0745c3cb" width="600px"/>
 </div> <br>
 
-
-
-
+- #### PDF regarding the details of Missing Person 3
 <div align="center">
 <img src="https://github.com/user-attachments/assets/740b179b-d3ed-4335-8353-ab65c3b34ed3" width="600px"/>
 </div> <br>
