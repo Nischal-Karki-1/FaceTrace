@@ -1,4 +1,4 @@
-![5](https://github.com/user-attachments/assets/c9cf6b50-8d6b-47c5-acfd-1b7d12af40f7)
+
 # 🚀 FaceTrace: An Advanced Facial Recognition System
 ## What is this project about?
 FaceTrace is an advanced facial recognition system designed to aid in locating missing persons in Nepal. The project leverages Convolutional Neural Networks (CNNs), specifically utilizing the Siamese Neural Network and VGG16 architecture, for accurate facial feature extraction and recognition. The project integrates a user-friendly web platform with ReactJS on the frontend and FastAPI on the backend, enabling easy submission and retrieval of missing person reports.
@@ -121,6 +121,10 @@ The images stored in the MongoDB database are compared with real-time images cap
 ## Screenshots
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/354b2917-394e-47bb-8b9d-43b7e5fce12b" width="600px"/>
+</div> <br>
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/329451e0-6aa2-42ec-90ed-a70c0cf68f85" width="600px"/>
 </div> <br>
 
@@ -132,17 +136,18 @@ The images stored in the MongoDB database are compared with real-time images cap
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/354b2917-394e-47bb-8b9d-43b7e5fce12b" width="600px"/>
-</div> <br>
-![3]()
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/11eff190-deae-4cdf-8146-2860f878de4e" width="600px"/>
+<img src="https://github.com/user-attachments/assets/42dc5c86-ac0f-4e1e-800a-2348891c51d5" width="600px"/>
 </div> <br>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/17a40e02-957b-46d3-9c7c-b6cd35a15da7" width="600px"/>
 </div> <br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/11eff190-deae-4cdf-8146-2860f878de4e" width="600px"/>
+</div> <br>
+
+
 
 
 <div align="center">
@@ -153,9 +158,7 @@ The images stored in the MongoDB database are compared with real-time images cap
 <img src="https://github.com/user-attachments/assets/523fa33a-a5f5-4f31-9791-4c5f0745c3cb" width="600px"/>
 </div> <br>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/42dc5c86-ac0f-4e1e-800a-2348891c51d5" width="600px"/>
-</div> <br>
+
 
 
 <div align="center">
